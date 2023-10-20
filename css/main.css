@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    background-color: #2d283e;
+}
+
+.content {
+    max-width: 1600px;
+    margin: 0 auto;
+    padding: 30px 0;
+}
+
+h1 {
+    margin: 0;
+    margin-bottom: 24px;
+    font-size: 48px;
+    color: #802bb1;
+}
+
+p {
+    margin: 0;
+    margin-bottom: 12px;
+    font-size: 24px;
+    color: #fff;
+}
+
+q {
+    color: #d1d7e0;
+}
+
+ul, ol {
+    margin: 0;
+    margin-bottom: 10px;
+    padding: 0;
+    padding-left: 18px;
+}
+
+li {
+    font-size: 20px;
+    color: #d1d7e0;
+}
+
+li>a {
+    font-size: 20px;
+    color: #802bb1;
+}
