@@ -35,6 +35,11 @@ ul {
 ul > li {
     margin-right: 30px;
 }
+
+ul > li:last-child {
+    margin-right: 0;
+}
+
 .box {
     display: flex;
     margin-bottom: 30px;
@@ -55,6 +60,13 @@ section {
     margin-bottom: 20px;
     padding: 5px 20px;
     background-color: lavender;
+}
+
+.link {
+    margin-left: 10px;
+    padding: 8px 15px;
+    color: white;
+    background: rebeccapurple;
 }
 
 .post {
